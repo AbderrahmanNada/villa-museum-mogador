@@ -130,7 +130,6 @@ function layout({ lang, slug, title, desc, body, ogId = "villa-nuit" }) {
 <link rel="stylesheet" href="/assets/site.css">
 ${preloadTag(slug)}
 <script type="application/ld+json">${JSON.stringify(schema(lang))}</script>
-<!-- Mesure d'audience Umami auto-hébergée (BC-010, 04/10/2026) : sans cookie, IP non conservée -->
 <script defer src="https://stats.nadawis.tech/script.js" data-website-id="ab4e7bc1-35fc-43c2-b409-d57eb5aec82d" data-domains="villamuseummogador.com"></script>
 </head>
 <body>

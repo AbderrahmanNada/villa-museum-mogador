@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "title": {
+      "fr": "L'Expérience — le temps d'une journée",
+      "en": "The Experience — the course of a day"
+    },
+    "desc": {
+      "fr": "Le matin sur le toit, la maison que l'on parcourt, le hammam l'après-midi, le rooftop au couchant : à villa museum mogador, la journée trouve son rythme.",
+      "en": "Morning on the roof, a house to walk through, the hammam in the afternoon, the rooftop at dusk: at villa museum mogador the day finds its own rhythm."
+    }
+  },
+  "kicker": {
+    "fr": "L'Expérience",
+    "en": "The Experience"
+  },
+  "title": {
+    "fr": "Le temps d'une journée",
+    "en": "The course of a day"
+  },
+  "intro": {
+    "fr": [
+      "Ici, la journée ne s'organise pas. Elle trouve son rythme.",
+      "Le matin commence sur la terrasse, face à l'Atlantique, lorsque la lumière révèle peu à peu Essaouira.",
+      "Puis vient le plaisir de parcourir la maison, de découvrir une photographie, un objet, une matière ou un détail d'architecture que l'on n'avait pas remarqué la veille.",
+      "L'après-midi invite au hammam et au soin.",
+      "La bibliothèque-auditorium est aussi un espace parenthèse pour les curieux et les passionnés, ou pour ceux qui veulent travailler, ou juste s'isoler dans un cocon culturel.",
+      "Le soir, on retrouve le rooftop lorsque la lumière descend sur les remparts et que l'île de Mogador se dessine à l'horizon.",
+      "À villa museum mogador, rien ne presse.",
+      "<strong>La maison se découvre comme une œuvre : avec le temps.</strong>"
+    ],
+    "en": [
+      "Here the day is not organised. It finds its own rhythm.",
+      "Morning begins on the terrace, facing the Atlantic, as the light gradually reveals Essaouira.",
+      "Then comes the pleasure of walking through the house and finding a photograph, an object, a material or an architectural detail that went unnoticed the day before.",
+      "The afternoon turns towards the hammam and the treatment rooms.",
+      "The library-auditorium is a room apart as well, for the curious and the passionate, or for those who wish to work, or simply to withdraw into a cultural cocoon.",
+      "Evening brings a return to the rooftop, as the light comes down over the ramparts and the island of Mogador takes shape on the horizon.",
+      "At villa museum mogador, nothing hurries.",
+      "<strong>The house is discovered as a work of art is: with time.</strong>"
+    ]
+  },
+  "servicesTitle": {
+    "fr": "Services de la maison",
+    "en": "House services"
+  },
+  "services": {
+    "fr": [
+      "Accueil personnalisé",
+      "Accueil courtoisie : café, thé, coupe de fruits et fleurs",
+      "Accès wifi gratuit dans toute la maison",
+      "Parking sécurisé",
+      "Rooftop vue mer",
+      "Spa avec hammam traditionnel et massages",
+      "Espace bibliothèque / auditorium / télétravail",
+      "Petit jardin aromatique"
+    ],
+    "en": [
+      "A personal welcome",
+      "A courtesy tray: coffee, tea, a bowl of fruit and flowers",
+      "Free wi-fi throughout the house",
+      "Secure parking",
+      "Sea-view rooftop",
+      "Spa with traditional hammam and massages",
+      "Library / auditorium / remote-working room",
+      "A small aromatic garden"
+    ]
+  },
+  "rituals": [
+    {
+      "k": {
+        "fr": "Arrivée",
+        "en": "Arrival"
+      },
+      "t": {
+        "fr": "Entrer dans la maison",
+        "en": "Entering the house"
+      },
+      "d": {
+        "fr": "Un thé, quelques mots, puis la Villa se révèle progressivement : son architecture, ses œuvres, ses objets et les histoires qu'ils portent.",
+        "en": "Tea, a few words, and then the Villa opens little by little: its architecture, its works, its objects and the stories they carry."
+      }
+    },
+    {
+      "k": {
+        "fr": "Après-midi",
+        "en": "Afternoon"
+      },
+      "t": {
+        "fr": "Le temps pour soi",
+        "en": "Time to yourself"
+      },
+      "d": {
+        "fr": "Sous la maison, le rythme change. Le hammam beldi et les espaces de soins offrent un univers plus intime, fait de zelliges, de vapeur, de silence et de lumière. La bibliothèque-auditorium vous tend les bras elle aussi, pour un moment d'immersion culturelle, de plaisir ou de travail.",
+        "en": "Beneath the house the rhythm changes. The beldi hammam and the treatment rooms open a more intimate world of zellige, steam, silence and light. The library-auditorium opens its arms too, for a moment of cultural immersion, of pleasure, or of work."
+      }
+    },
+    {
+      "k": {
+        "fr": "Soir",
+        "en": "Evening"
+      },
+      "t": {
+        "fr": "Face à Mogador",
+        "en": "Facing Mogador"
+      },
+      "d": {
+        "fr": "Lorsque le soleil descend, le rooftop devient un belvédère. Essaouira, ses remparts, l'océan et l'île de Mogador composent alors un paysage qui change à chaque lumière.",
+        "en": "As the sun goes down, the rooftop becomes a belvedere. Essaouira, its ramparts, the ocean and the island of Mogador then compose a landscape that changes with every light."
+      }
+    }
+  ]
+}

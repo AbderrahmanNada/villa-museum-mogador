@@ -1,0 +1,2111 @@
+{
+  "media": {
+    "input": "photos",
+    "output": "photos"
+  },
+  "content": [
+    {
+      "name": "page-home",
+      "label": "Page · Accueil",
+      "type": "file",
+      "path": "content/pages/home.json",
+      "format": "json",
+      "fields": [
+        {
+          "name": "meta",
+          "label": "Référencement (titre et description Google)",
+          "type": "object",
+          "fields": [
+            {
+              "name": "title",
+              "label": "Titre",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "fr",
+                  "label": "Français",
+                  "type": "string"
+                },
+                {
+                  "name": "en",
+                  "label": "English",
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "name": "desc",
+              "label": "Description",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "fr",
+                  "label": "Français",
+                  "type": "text"
+                },
+                {
+                  "name": "en",
+                  "label": "English",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "heroSig",
+          "label": "Hero Sig",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "string"
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "name": "concept",
+          "label": "Concept",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "text",
+              "list": true
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "text",
+              "list": true
+            }
+          ]
+        },
+        {
+          "name": "doorsIntro",
+          "label": "Doors Intro",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "string"
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "name": "museumTitle",
+          "label": "Museum Title",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "string"
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "name": "museumBody",
+          "label": "Museum Body",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "text",
+              "list": true
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "text",
+              "list": true
+            }
+          ]
+        },
+        {
+          "name": "aptTitle",
+          "label": "Apt Title",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "string"
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "name": "aptBody",
+          "label": "Apt Body",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "text",
+              "list": true
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "text",
+              "list": true
+            }
+          ]
+        },
+        {
+          "name": "essaouiraTitle",
+          "label": "Essaouira Title",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "string"
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "name": "essaouiraBody",
+          "label": "Essaouira Body",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "text",
+              "list": true
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "text",
+              "list": true
+            }
+          ]
+        },
+        {
+          "name": "inviteTitle",
+          "label": "Invite Title",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "string"
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "string"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page-la-villa",
+      "label": "Page · La Villa",
+      "type": "file",
+      "path": "content/pages/la-villa.json",
+      "format": "json",
+      "fields": [
+        {
+          "name": "meta",
+          "label": "Référencement (titre et description Google)",
+          "type": "object",
+          "fields": [
+            {
+              "name": "title",
+              "label": "Titre",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "fr",
+                  "label": "Français",
+                  "type": "string"
+                },
+                {
+                  "name": "en",
+                  "label": "English",
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "name": "desc",
+              "label": "Description",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "fr",
+                  "label": "Français",
+                  "type": "text"
+                },
+                {
+                  "name": "en",
+                  "label": "English",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "kicker",
+          "label": "Surtitre",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "string"
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "name": "title",
+          "label": "Titre",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "string"
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "name": "intro",
+          "label": "Introduction",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "text",
+              "list": true
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "text",
+              "list": true
+            }
+          ]
+        },
+        {
+          "name": "immersionTitle",
+          "label": "Immersion Title",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "string"
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "name": "immersion",
+          "label": "Immersion",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "text",
+              "list": true
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "text",
+              "list": true
+            }
+          ]
+        },
+        {
+          "name": "progTitle",
+          "label": "Prog Title",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "string"
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "name": "prog",
+          "label": "Prog",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "text",
+              "list": true
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "text",
+              "list": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page-les-residences",
+      "label": "Page · Les Résidences",
+      "type": "file",
+      "path": "content/pages/les-residences.json",
+      "format": "json",
+      "fields": [
+        {
+          "name": "meta",
+          "label": "Référencement (titre et description Google)",
+          "type": "object",
+          "fields": [
+            {
+              "name": "title",
+              "label": "Titre",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "fr",
+                  "label": "Français",
+                  "type": "string"
+                },
+                {
+                  "name": "en",
+                  "label": "English",
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "name": "desc",
+              "label": "Description",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "fr",
+                  "label": "Français",
+                  "type": "text"
+                },
+                {
+                  "name": "en",
+                  "label": "English",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "kicker",
+          "label": "Surtitre",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "string"
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "name": "title",
+          "label": "Titre",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "string"
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "name": "intro",
+          "label": "Introduction",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "text",
+              "list": true
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "text",
+              "list": true
+            }
+          ]
+        },
+        {
+          "name": "apts",
+          "label": "Apts",
+          "type": "object",
+          "list": true,
+          "fields": [
+            {
+              "name": "name",
+              "label": "Name",
+              "type": "string"
+            },
+            {
+              "name": "level",
+              "label": "Level",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "fr",
+                  "label": "Français",
+                  "type": "string"
+                },
+                {
+                  "name": "en",
+                  "label": "English",
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "name": "link",
+              "label": "Link",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "fr",
+                  "label": "Français",
+                  "type": "text"
+                },
+                {
+                  "name": "en",
+                  "label": "English",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "desc",
+              "label": "Description",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "fr",
+                  "label": "Français",
+                  "type": "text",
+                  "list": true
+                },
+                {
+                  "name": "en",
+                  "label": "English",
+                  "type": "text",
+                  "list": true
+                }
+              ]
+            },
+            {
+              "name": "facts",
+              "label": "Facts",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "fr",
+                  "label": "Français",
+                  "type": "text"
+                },
+                {
+                  "name": "en",
+                  "label": "English",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "equipment",
+          "label": "Equipment",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "text"
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "onRequest",
+          "label": "On Request",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "text"
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "label": "Note",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "text"
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page-la-collection",
+      "label": "Page · Les Collections",
+      "type": "file",
+      "path": "content/pages/la-collection.json",
+      "format": "json",
+      "fields": [
+        {
+          "name": "meta",
+          "label": "Référencement (titre et description Google)",
+          "type": "object",
+          "fields": [
+            {
+              "name": "title",
+              "label": "Titre",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "fr",
+                  "label": "Français",
+                  "type": "string"
+                },
+                {
+                  "name": "en",
+                  "label": "English",
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "name": "desc",
+              "label": "Description",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "fr",
+                  "label": "Français",
+                  "type": "text"
+                },
+                {
+                  "name": "en",
+                  "label": "English",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "kicker",
+          "label": "Surtitre",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "string"
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "name": "title",
+          "label": "Titre",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "string"
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "name": "intro",
+          "label": "Introduction",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "text",
+              "list": true
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "text",
+              "list": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page-l-experience",
+      "label": "Page · L'Expérience",
+      "type": "file",
+      "path": "content/pages/l-experience.json",
+      "format": "json",
+      "fields": [
+        {
+          "name": "meta",
+          "label": "Référencement (titre et description Google)",
+          "type": "object",
+          "fields": [
+            {
+              "name": "title",
+              "label": "Titre",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "fr",
+                  "label": "Français",
+                  "type": "string"
+                },
+                {
+                  "name": "en",
+                  "label": "English",
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "name": "desc",
+              "label": "Description",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "fr",
+                  "label": "Français",
+                  "type": "text"
+                },
+                {
+                  "name": "en",
+                  "label": "English",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "kicker",
+          "label": "Surtitre",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "string"
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "name": "title",
+          "label": "Titre",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "string"
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "name": "intro",
+          "label": "Introduction",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "text",
+              "list": true
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "text",
+              "list": true
+            }
+          ]
+        },
+        {
+          "name": "servicesTitle",
+          "label": "Services Title",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "string"
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "name": "services",
+          "label": "Services",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "text",
+              "list": true
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "text",
+              "list": true
+            }
+          ]
+        },
+        {
+          "name": "rituals",
+          "label": "Rituals",
+          "type": "object",
+          "list": true,
+          "fields": [
+            {
+              "name": "k",
+              "label": "Surtitre",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "fr",
+                  "label": "Français",
+                  "type": "string"
+                },
+                {
+                  "name": "en",
+                  "label": "English",
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "name": "t",
+              "label": "Titre",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "fr",
+                  "label": "Français",
+                  "type": "string"
+                },
+                {
+                  "name": "en",
+                  "label": "English",
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "name": "d",
+              "label": "Texte",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "fr",
+                  "label": "Français",
+                  "type": "text"
+                },
+                {
+                  "name": "en",
+                  "label": "English",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page-spa-hammam",
+      "label": "Page · Hammam & Bien-être",
+      "type": "file",
+      "path": "content/pages/spa-hammam.json",
+      "format": "json",
+      "fields": [
+        {
+          "name": "meta",
+          "label": "Référencement (titre et description Google)",
+          "type": "object",
+          "fields": [
+            {
+              "name": "title",
+              "label": "Titre",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "fr",
+                  "label": "Français",
+                  "type": "string"
+                },
+                {
+                  "name": "en",
+                  "label": "English",
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "name": "desc",
+              "label": "Description",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "fr",
+                  "label": "Français",
+                  "type": "text"
+                },
+                {
+                  "name": "en",
+                  "label": "English",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "kicker",
+          "label": "Surtitre",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "string"
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "name": "title",
+          "label": "Titre",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "string"
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "name": "intro",
+          "label": "Introduction",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "text",
+              "list": true
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "text",
+              "list": true
+            }
+          ]
+        },
+        {
+          "name": "note",
+          "label": "Note",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "string"
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "string"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page-rooftop",
+      "label": "Page · Rooftop",
+      "type": "file",
+      "path": "content/pages/rooftop.json",
+      "format": "json",
+      "fields": [
+        {
+          "name": "meta",
+          "label": "Référencement (titre et description Google)",
+          "type": "object",
+          "fields": [
+            {
+              "name": "title",
+              "label": "Titre",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "fr",
+                  "label": "Français",
+                  "type": "string"
+                },
+                {
+                  "name": "en",
+                  "label": "English",
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "name": "desc",
+              "label": "Description",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "fr",
+                  "label": "Français",
+                  "type": "text"
+                },
+                {
+                  "name": "en",
+                  "label": "English",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "kicker",
+          "label": "Surtitre",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "string"
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "name": "title",
+          "label": "Titre",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "string"
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "name": "intro",
+          "label": "Introduction",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "text",
+              "list": true
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "text",
+              "list": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page-essaouira",
+      "label": "Page · Essaouira",
+      "type": "file",
+      "path": "content/pages/essaouira.json",
+      "format": "json",
+      "fields": [
+        {
+          "name": "meta",
+          "label": "Référencement (titre et description Google)",
+          "type": "object",
+          "fields": [
+            {
+              "name": "title",
+              "label": "Titre",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "fr",
+                  "label": "Français",
+                  "type": "string"
+                },
+                {
+                  "name": "en",
+                  "label": "English",
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "name": "desc",
+              "label": "Description",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "fr",
+                  "label": "Français",
+                  "type": "text"
+                },
+                {
+                  "name": "en",
+                  "label": "English",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "kicker",
+          "label": "Surtitre",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "string"
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "name": "title",
+          "label": "Titre",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "string"
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "name": "intro",
+          "label": "Introduction",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "text",
+              "list": true
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "text",
+              "list": true
+            }
+          ]
+        },
+        {
+          "name": "galleryTitle",
+          "label": "Gallery Title",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "string"
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "name": "galleryIntro",
+          "label": "Gallery Intro",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "text"
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "entries",
+          "label": "Entries",
+          "type": "object",
+          "list": true,
+          "fields": [
+            {
+              "name": "t",
+              "label": "Titre",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "fr",
+                  "label": "Français",
+                  "type": "string"
+                },
+                {
+                  "name": "en",
+                  "label": "English",
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "name": "d",
+              "label": "Texte",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "fr",
+                  "label": "Français",
+                  "type": "string"
+                },
+                {
+                  "name": "en",
+                  "label": "English",
+                  "type": "string"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page-rachid-haloui",
+      "label": "Page · Rachid Haloui",
+      "type": "file",
+      "path": "content/pages/rachid-haloui.json",
+      "format": "json",
+      "fields": [
+        {
+          "name": "meta",
+          "label": "Référencement (titre et description Google)",
+          "type": "object",
+          "fields": [
+            {
+              "name": "title",
+              "label": "Titre",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "fr",
+                  "label": "Français",
+                  "type": "string"
+                },
+                {
+                  "name": "en",
+                  "label": "English",
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "name": "desc",
+              "label": "Description",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "fr",
+                  "label": "Français",
+                  "type": "text"
+                },
+                {
+                  "name": "en",
+                  "label": "English",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "kicker",
+          "label": "Surtitre",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "string"
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "name": "title",
+          "label": "Titre",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "string"
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "name": "subtitle",
+          "label": "Subtitle",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "string"
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "name": "intro",
+          "label": "Introduction",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "text",
+              "list": true
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "text",
+              "list": true
+            }
+          ]
+        },
+        {
+          "name": "factsTitle",
+          "label": "Facts Title",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "string"
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "name": "facts",
+          "label": "Facts",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "text",
+              "list": true
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "text",
+              "list": true
+            }
+          ]
+        },
+        {
+          "name": "villaTitle",
+          "label": "Villa Title",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "string"
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "name": "villa",
+          "label": "Villa",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "text",
+              "list": true
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "text",
+              "list": true
+            }
+          ]
+        },
+        {
+          "name": "signTitle",
+          "label": "Sign Title",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "string"
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "name": "sign",
+          "label": "Sign",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "text",
+              "list": true
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "text",
+              "list": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "page-reserver",
+      "label": "Page · Réserver",
+      "type": "file",
+      "path": "content/pages/reserver.json",
+      "format": "json",
+      "fields": [
+        {
+          "name": "meta",
+          "label": "Référencement (titre et description Google)",
+          "type": "object",
+          "fields": [
+            {
+              "name": "title",
+              "label": "Titre",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "fr",
+                  "label": "Français",
+                  "type": "string"
+                },
+                {
+                  "name": "en",
+                  "label": "English",
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "name": "desc",
+              "label": "Description",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "fr",
+                  "label": "Français",
+                  "type": "text"
+                },
+                {
+                  "name": "en",
+                  "label": "English",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "kicker",
+          "label": "Surtitre",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "string"
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "name": "title",
+          "label": "Titre",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "string"
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "name": "intro",
+          "label": "Introduction",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "text",
+              "list": true
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "text",
+              "list": true
+            }
+          ]
+        },
+        {
+          "name": "form",
+          "label": "Form",
+          "type": "object",
+          "fields": [
+            {
+              "name": "name",
+              "label": "Name",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "fr",
+                  "label": "Français",
+                  "type": "string"
+                },
+                {
+                  "name": "en",
+                  "label": "English",
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "name": "email",
+              "label": "Email",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "fr",
+                  "label": "Français",
+                  "type": "string"
+                },
+                {
+                  "name": "en",
+                  "label": "English",
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "name": "arrival",
+              "label": "Arrival",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "fr",
+                  "label": "Français",
+                  "type": "string"
+                },
+                {
+                  "name": "en",
+                  "label": "English",
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "name": "departure",
+              "label": "Departure",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "fr",
+                  "label": "Français",
+                  "type": "string"
+                },
+                {
+                  "name": "en",
+                  "label": "English",
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "name": "guests",
+              "label": "Guests",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "fr",
+                  "label": "Français",
+                  "type": "string"
+                },
+                {
+                  "name": "en",
+                  "label": "English",
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "name": "apt",
+              "label": "Apt",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "fr",
+                  "label": "Français",
+                  "type": "string"
+                },
+                {
+                  "name": "en",
+                  "label": "English",
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "name": "aptAny",
+              "label": "Apt Any",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "fr",
+                  "label": "Français",
+                  "type": "string"
+                },
+                {
+                  "name": "en",
+                  "label": "English",
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "name": "message",
+              "label": "Message",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "fr",
+                  "label": "Français",
+                  "type": "string"
+                },
+                {
+                  "name": "en",
+                  "label": "English",
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "name": "submit",
+              "label": "Submit",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "fr",
+                  "label": "Français",
+                  "type": "string"
+                },
+                {
+                  "name": "en",
+                  "label": "English",
+                  "type": "string"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "formPending",
+          "label": "Form Pending",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "text"
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "altTitle",
+          "label": "Alt Title",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "string"
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "name": "alt",
+          "label": "Alt",
+          "type": "object",
+          "fields": [
+            {
+              "name": "fr",
+              "label": "Français",
+              "type": "text"
+            },
+            {
+              "name": "en",
+              "label": "English",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "site",
+      "label": "Coordonnées & slogan",
+      "type": "file",
+      "path": "content/site.json",
+      "format": "json",
+      "fields": [
+        {
+          "name": "site",
+          "label": "Site",
+          "type": "object",
+          "fields": [
+            {
+              "name": "name",
+              "label": "Name",
+              "type": "string"
+            },
+            {
+              "name": "category",
+              "label": "Category",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "fr",
+                  "label": "Français",
+                  "type": "string"
+                },
+                {
+                  "name": "en",
+                  "label": "English",
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "name": "slogan",
+              "label": "Slogan",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "fr",
+                  "label": "Français",
+                  "type": "string"
+                },
+                {
+                  "name": "en",
+                  "label": "English",
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "name": "baseline",
+              "label": "Baseline",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "fr",
+                  "label": "Français",
+                  "type": "string"
+                },
+                {
+                  "name": "en",
+                  "label": "English",
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "name": "territory",
+              "label": "Territory",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "fr",
+                  "label": "Français",
+                  "type": "string"
+                },
+                {
+                  "name": "en",
+                  "label": "English",
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "name": "longSig",
+              "label": "Long Sig",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "fr",
+                  "label": "Français",
+                  "type": "string"
+                },
+                {
+                  "name": "en",
+                  "label": "English",
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "name": "city",
+              "label": "City",
+              "type": "string"
+            },
+            {
+              "name": "address",
+              "label": "Address",
+              "type": "string"
+            },
+            {
+              "name": "legalName",
+              "label": "Legal Name",
+              "type": "string"
+            },
+            {
+              "name": "email",
+              "label": "Email",
+              "type": "string"
+            },
+            {
+              "name": "phone",
+              "label": "Phone",
+              "type": "string"
+            },
+            {
+              "name": "phoneHref",
+              "label": "Phone Href",
+              "type": "string"
+            },
+            {
+              "name": "whatsapp",
+              "label": "Whatsapp",
+              "type": "string"
+            },
+            {
+              "name": "instagram",
+              "label": "Instagram",
+              "type": "string"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "photos",
+      "label": "Photos du site",
+      "type": "file",
+      "path": "src/media.json",
+      "format": "json",
+      "fields": [
+        {
+          "name": "sourceDir",
+          "label": "Dossier (ne pas modifier)",
+          "type": "string",
+          "hidden": true
+        },
+        {
+          "name": "credit",
+          "label": "Crédit photo",
+          "type": "string"
+        },
+        {
+          "name": "images",
+          "label": "Photos",
+          "type": "object",
+          "list": true,
+          "fields": [
+            {
+              "name": "id",
+              "label": "Identifiant (ne pas modifier)",
+              "type": "string",
+              "required": true
+            },
+            {
+              "name": "emplacement",
+              "label": "Pages où la photo apparaît",
+              "type": "string"
+            },
+            {
+              "name": "file",
+              "label": "Photo",
+              "type": "image"
+            },
+            {
+              "name": "altFR",
+              "label": "Légende (français)",
+              "type": "string"
+            },
+            {
+              "name": "altEN",
+              "label": "Légende (anglais)",
+              "type": "string"
+            },
+            {
+              "name": "panorama",
+              "label": "Panorama",
+              "type": "boolean",
+              "hidden": true
+            },
+            {
+              "name": "lowres",
+              "label": "Basse définition",
+              "type": "boolean",
+              "hidden": true
+            },
+            {
+              "name": "provisional",
+              "label": "Provisoire",
+              "type": "boolean",
+              "hidden": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

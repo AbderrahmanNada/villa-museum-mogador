@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "title": {
+      "fr": "Rachid Haloui — l'architecte derrière la maison",
+      "en": "Rachid Haloui — the architect behind the house"
+    },
+    "desc": {
+      "fr": "Architecte, enseignant, photographe, plasticien, écrivain et collectionneur : Rachid Haloui est le créateur de l'univers villa museum mogador, à Essaouira.",
+      "en": "Architect, teacher, photographer, visual artist, writer and collector: Rachid Haloui is the author of villa museum mogador and of the world it holds, in Essaouira."
+    }
+  },
+  "kicker": {
+    "fr": "L'architecte",
+    "en": "The architect"
+  },
+  "title": {
+    "fr": "Rachid Haloui",
+    "en": "Rachid Haloui"
+  },
+  "subtitle": {
+    "fr": "L'architecte derrière la maison",
+    "en": "The architect behind the house"
+  },
+  "intro": {
+    "fr": [
+      "Architecte, enseignant, photographe, plasticien, écrivain et collectionneur, Rachid Haloui appartient à une génération pour laquelle bâtir ne consiste pas seulement à construire, mais aussi à comprendre, préserver et transmettre.",
+      "Son regard s'est formé au contact de l'architecture marocaine, de ses médinas, de ses matières, de ses artisans et de ses mémoires.",
+      "Au fil des années, il a observé, photographié, documenté et collectionné les traces d'un patrimoine auquel il demeure profondément attaché.",
+      "<strong>villa museum mogador est la rencontre de tous ces regards.</strong>",
+      "Une architecture qu'il a dessinée.<br>Des collections qu'il a constituées.<br>Une ville qu'il a longuement photographiée.<br>Et aujourd'hui, une maison qu'il choisit d'ouvrir."
+    ],
+    "en": [
+      "Architect, teacher, photographer, visual artist, writer and collector, Rachid Haloui belongs to a generation for whom to build is not only to raise a structure, but to understand, to preserve and to pass on.",
+      "His eye was formed on Moroccan architecture — on its medinas, its materials, its craftsmen and its memories.",
+      "Over the years he has observed, photographed, documented and collected the traces of a heritage to which he remains deeply attached.",
+      "<strong>villa museum mogador is where all these ways of looking meet.</strong>",
+      "An architecture of his own drawing.<br>Collections of his own gathering.<br>A city he photographed over many years.<br>And now, a house he chooses to open."
+    ]
+  },
+  "factsTitle": {
+    "fr": "Au début, des timbres, des images…",
+    "en": "At the beginning: stamps, pictures…"
+  },
+  "facts": {
+    "fr": [
+      "Aux collections de timbres, d'images et de porte-clés de l'enfance ont succédé les collections de livres, de documents, de cartes postales, de stylos, d'encriers, de poteries, de bakélite, de coquillages, de miniatures de voitures, et de réveils, pendules et montres.",
+      "<strong>Vint alors le désir de partager et de communiquer la magie de ces objets et l'enthousiasme de cette passion.</strong>"
+    ],
+    "en": [
+      "The childhood collections of stamps, pictures and keyrings gave way to collections of books, documents, postcards, pens, inkwells, pottery, bakelite, seashells, model cars, and alarm clocks, mantel clocks and watches.",
+      "<strong>Then came the wish to share these objects — their magic, and the enthusiasm of the passion behind them.</strong>"
+    ]
+  },
+  "villaTitle": {
+    "fr": "Bâtir pour transmettre",
+    "en": "Building in order to pass on"
+  },
+  "villa": {
+    "fr": [
+      "Rachid Haloui n'a pas adapté une ancienne demeure à sa collection.",
+      "Il a accompli le geste inverse : <strong>dessiner une architecture minimaliste capable de s'effacer pour recevoir ce qu'une vie avait patiemment réuni.</strong>",
+      "Les objets ne sont donc pas venus meubler la Villa après sa construction.",
+      "Ils appartiennent à sa conception.",
+      "Architecture et collections ont grandi ensemble jusqu'à devenir indissociables."
+    ],
+    "en": [
+      "Rachid Haloui did not adapt an old house to his collection.",
+      "He did the opposite: <strong>he drew a minimal architecture able to efface itself in order to receive what a lifetime had patiently gathered.</strong>",
+      "The objects did not come to furnish the Villa once it was built.",
+      "They belong to its design.",
+      "Architecture and collections grew together until they became inseparable."
+    ]
+  },
+  "signTitle": {
+    "fr": "Le signe",
+    "en": "The mark"
+  },
+  "sign": {
+    "fr": [
+      "Le monogramme de la Villa n'est pas un ornement ajouté à son architecture.",
+      "Dessiné par Rachid Haloui, il appartient au langage même de la maison. L'inclinaison fait écho à l'architecture, qui devient un point d'interrogation.",
+      "Inscrit dans certains détails architecturaux, il agit comme une signature discrète : celle de l'architecte qui ne cherche pas à imposer son nom, mais à laisser une trace et susciter des émotions."
+    ],
+    "en": [
+      "The Villa's monogram is not an ornament added to its architecture.",
+      "Drawn by Rachid Haloui, it belongs to the very language of the house. Its incline echoes the architecture, which becomes a question mark.",
+      "Inscribed in certain architectural details, it works as a discreet signature: that of an architect who seeks not to impose his name, but to leave a trace and to stir feeling."
+    ]
+  }
+}

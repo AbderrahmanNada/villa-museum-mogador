@@ -1,0 +1,33 @@
+{
+  "site": {
+    "name": "villa museum mogador",
+    "category": {
+      "fr": "Boutique Museum Residence · Essaouira",
+      "en": "Boutique Museum Residence · Essaouira"
+    },
+    "slogan": {
+      "fr": "au delà du confort .... l'émotion",
+      "en": "au delà du confort .... l'émotion"
+    },
+    "baseline": {
+      "fr": "L'art d'habiter Essaouira autrement",
+      "en": "Another way of inhabiting Essaouira"
+    },
+    "territory": {
+      "fr": "Architecture · Collections · Photographie · Hospitalité",
+      "en": "Architecture · Collections · Photography · Hospitality"
+    },
+    "longSig": {
+      "fr": "Des collections. Une architecture. Quatre appartements. Une expérience à vivre.",
+      "en": "Collections. A work of architecture. Four apartments. A house to be lived in."
+    },
+    "city": "Quartier Sidi Magdoul · Essaouira, Maroc",
+    "address": "villa museum mogador · Quartier Sidi Magdoul · Essaouira, Maroc",
+    "legalName": "VILLA MUSEUM MOGADOR S.A.R.L. AU",
+    "email": "",
+    "phone": "+212 6 15 11 60 00",
+    "phoneHref": "tel:+212615116000",
+    "whatsapp": "https://wa.me/212615116000",
+    "instagram": ""
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "LANGS": [
+    "fr",
+    "en"
+  ],
+  "nav": [
+    {
+      "slug": "",
+      "label": {
+        "fr": "Accueil",
+        "en": "Home"
+      }
+    },
+    {
+      "slug": "la-villa",
+      "label": {
+        "fr": "La Villa",
+        "en": "The Villa"
+      }
+    },
+    {
+      "slug": "les-residences",
+      "label": {
+        "fr": "Les Résidences",
+        "en": "Residences"
+      }
+    },
+    {
+      "slug": "la-collection",
+      "label": {
+        "fr": "Les Collections",
+        "en": "The Collections"
+      }
+    },
+    {
+      "slug": "l-experience",
+      "label": {
+        "fr": "L'Expérience",
+        "en": "The Experience"
+      }
+    },
+    {
+      "slug": "spa-hammam",
+      "label": {
+        "fr": "Hammam & Bien-être",
+        "en": "Hammam & Wellbeing"
+      }
+    },
+    {
+      "slug": "rooftop",
+      "label": {
+        "fr": "Rooftop",
+        "en": "Rooftop"
+      }
+    },
+    {
+      "slug": "essaouira",
+      "label": {
+        "fr": "Essaouira",
+        "en": "Essaouira"
+      }
+    },
+    {
+      "slug": "rachid-haloui",
+      "label": {
+        "fr": "Rachid Haloui",
+        "en": "Rachid Haloui"
+      }
+    },
+    {
+      "slug": "reserver",
+      "label": {
+        "fr": "Réserver",
+        "en": "Reserve"
+      },
+      "cta": true
+    }
+  ],
+  "ui": {
+    "reserve": {
+      "fr": "Réserver",
+      "en": "Reserve"
+    },
+    "requestStay": {
+      "fr": "Écrire à la maison",
+      "en": "Write to the house"
+    },
+    "discover": {
+      "fr": "Découvrir",
+      "en": "Discover"
+    },
+    "scroll": {
+      "fr": "Descendre",
+      "en": "Scroll"
+    },
+    "next": {
+      "fr": "Continuer la visite",
+      "en": "Continue your visit"
+    },
+    "prev": {
+      "fr": "Précédent",
+      "en": "Previous"
+    },
+    "menu": {
+      "fr": "Menu",
+      "en": "Menu"
+    },
+    "close": {
+      "fr": "Fermer",
+      "en": "Close"
+    },
+    "credit": {
+      "fr": "Photographies — Rachid Haloui",
+      "en": "Photography — Rachid Haloui"
+    },
+    "practical": {
+      "fr": "Informations pratiques",
+      "en": "Practical information"
+    },
+    "soonSeptember": {
+      "fr": "Les œuvres seront présentées une à une, avec leur provenance et leur histoire.",
+      "en": "Each work will be presented in turn, with its provenance and its history."
+    }
+  }
+}

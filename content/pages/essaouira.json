@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "title": {
+      "fr": "Essaouira, par le regard de Rachid Haloui",
+      "en": "Essaouira, through the eye of Rachid Haloui"
+    },
+    "desc": {
+      "fr": "Le port, les remparts, la médina, la musique, la lumière : Essaouira à travers le regard de l'architecte et photographe qui l'a observée et photographiée pendant des années.",
+      "en": "The harbour, the ramparts, the medina, the music, the light: Essaouira through the eye of the architect and photographer who watched and photographed it over many years."
+    }
+  },
+  "kicker": {
+    "fr": "Essaouira",
+    "en": "Essaouira"
+  },
+  "title": {
+    "fr": "Essaouira, par le regard de Rachid Haloui",
+    "en": "Essaouira, through the eye of Rachid Haloui"
+  },
+  "intro": {
+    "fr": [
+      "Bien avant d'y construire villa museum mogador, Rachid Haloui photographiait Essaouira.",
+      "Son port, ses remparts, sa médina, ses architectures, ses habitants, sa musique, son océan et surtout cette lumière qui transforme continuellement la ville.",
+      "Cette page n'a donc pas vocation à être un guide touristique de plus.",
+      "Elle propose de découvrir Essaouira <strong>à travers le regard de celui qui l'a observée et photographiée pendant des années, celui qui a milité pour préserver et valoriser son patrimoine.</strong>"
+    ],
+    "en": [
+      "Long before building villa museum mogador here, Rachid Haloui was photographing Essaouira.",
+      "Its harbour, its ramparts, its medina, its architecture, its people, its music, its ocean — and above all that light which is forever remaking the city.",
+      "This page is not meant to be one more visitor's guide.",
+      "It offers Essaouira <strong>through the eye of the man who watched and photographed it over many years — the man who campaigned to protect its heritage and make it known.</strong>"
+    ]
+  },
+  "galleryTitle": {
+    "fr": "Une archive personnelle de l'ancienne Mogador",
+    "en": "A personal archive of old Mogador"
+  },
+  "galleryIntro": {
+    "fr": "Les photographies présentées ici ne sont pas de simples illustrations d'Essaouira. Elles appartiennent au regard de Rachid Haloui, architecte et photographe, et témoignent de sa relation avec la ville. Il voulait habiter la ville ; aujourd'hui, c'est elle qui l'habite. Architecture, scènes de rue, patrimoine, musique, océan et lumière composent une archive exceptionnelle de l'ancienne Mogador.",
+    "en": "The photographs shown here are not mere illustrations of Essaouira. They belong to the eye of Rachid Haloui, architect and photographer, and record his relationship with the city. He wanted to inhabit the city; today it is the city that inhabits him. Architecture, street scenes, heritage, music, ocean and light together make an exceptional archive of old Mogador."
+  },
+  "entries": [
+    {
+      "t": {
+        "fr": "Le port & la Sqala",
+        "en": "The harbour & the Sqala"
+      },
+      "d": {
+        "fr": "Les barques bleues, les filets, le bastion posé face à l'océan.",
+        "en": "The blue boats, the nets, the bastion set facing the ocean."
+      }
+    },
+    {
+      "t": {
+        "fr": "La médina",
+        "en": "The medina"
+      },
+      "d": {
+        "fr": "Blanche et bleue, derrière ses remparts, sous son ficus centenaire.",
+        "en": "White and blue, behind its ramparts, beneath its century-old ficus."
+      }
+    },
+    {
+      "t": {
+        "fr": "La musique",
+        "en": "The music"
+      },
+      "d": {
+        "fr": "Le festival Gnaoua et Musiques du Monde, la transe, et la ville qui vit à son propre rythme.",
+        "en": "The Gnaoua & World Music Festival, the trance, and a city living to its own rhythm."
+      }
+    },
+    {
+      "t": {
+        "fr": "La lumière",
+        "en": "The light"
+      },
+      "d": {
+        "fr": "L'heure dorée sur la baie, et l'île de Mogador qui s'efface la dernière.",
+        "en": "The golden hour over the bay, and the island of Mogador, the last to fade."
+      }
+    }
+  ]
+}

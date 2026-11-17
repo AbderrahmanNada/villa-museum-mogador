@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "title": {
+      "fr": "La Villa — une œuvre que l'on habite",
+      "en": "The Villa — a work made to be lived in"
+    },
+    "desc": {
+      "fr": "Ni musée transformé en résidence, ni résidence décorée comme un musée : la villa museum mogador a été pensée dès l'origine comme un lieu où architecture, collections et art de vivre ne font qu'un.",
+      "en": "Neither a museum turned into a residence nor a residence decorated like a museum: villa museum mogador was conceived from the outset as a place where architecture, collections and the art of living are one."
+    }
+  },
+  "kicker": {
+    "fr": "La Villa",
+    "en": "The Villa"
+  },
+  "title": {
+    "fr": "Une œuvre que l'on habite",
+    "en": "A work made to be lived in"
+  },
+  "intro": {
+    "fr": [
+      "villa museum mogador n'est ni un musée transformé en résidence, ni une résidence décorée comme un musée.",
+      "Elle a été pensée dès son origine comme un lieu où architecture, collections et art de vivre ne feraient qu'un.",
+      "Véritable « point d'interrogation », l'architecture de cette villa lui confère une identité étonnante : volume incliné mais minimaliste, elle constitue une enveloppe architecturale audacieuse, annonciatrice d'un concept original au contenu inattendu.",
+      "Derrière la rigueur contemporaine de ses volumes blancs se déploie un autre univers : celui des matières, des gestes, des objets transmis, des photographies, des fragments d'architecture et des savoir-faire.",
+      "Une maison contemporaine construite pour accueillir la mémoire sans jamais la figer."
+    ],
+    "en": [
+      "villa museum mogador is neither a museum turned into a residence, nor a residence decorated like a museum.",
+      "It was conceived from the outset as a place where architecture, collections and the art of living would be one and the same.",
+      "A veritable question mark, the architecture of this villa gives it a startling identity: a leaning yet minimal volume, a bold architectural envelope that announces an original concept with an unexpected content.",
+      "Behind the contemporary rigour of its white volumes, another world unfolds: one of materials, of handed-down objects, of photographs, of architectural fragments, and of the gestures and knowledge of craft.",
+      "A contemporary house built to hold memory without ever pinning it down."
+    ]
+  },
+  "immersionTitle": {
+    "fr": "Immersion culturelle dans un cadre raffiné",
+    "en": "A cultural immersion in a refined setting"
+  },
+  "immersion": {
+    "fr": [
+      "À l'intérieur, les espaces, généreux et inondés de lumière, sont organisés pour assurer un confort optimal par leur fonctionnalité.",
+      "Les collections y sont exposées selon quatre thèmes : <strong>Maroc Ancien, Essaouira, Fès et Vieille France</strong>.",
+      "Ici pas de mode, pas de décoration, mais une démarche muséale et conviviale qui conjugue bien-être et culture."
+    ],
+    "en": [
+      "Inside, the spaces are generous and filled with light, laid out so that their practicality makes for complete comfort.",
+      "The collections are shown under four themes: <strong>Maroc Ancien, Essaouira, Fès and Vieille France</strong>.",
+      "No fashion here, no decoration, but a museum-minded and convivial approach that brings wellbeing and culture together."
+    ]
+  },
+  "progTitle": {
+    "fr": "La maison, niveau par niveau",
+    "en": "The house, level by level"
+  },
+  "prog": {
+    "fr": [
+      "La Villa se découvre progressivement.",
+      "Au rez-de-chaussée, deux appartements indépendants offrent chacun leur propre univers.",
+      "À l'étage, deux autres résidences peuvent communiquer et composer un espace plus vaste.",
+      "Plus bas, l'atmosphère devient intime : hammam beldi et espaces de soin prolongent l'expérience.",
+      "Puis vient le rooftop, ouvert sur Essaouira, son ciel, sa lumière et l'Atlantique.",
+      "Mais les collections, elles, ne connaissent pas de limites.",
+      "<strong>Elles habitent toute la maison.</strong>"
+    ],
+    "en": [
+      "The Villa reveals itself gradually.",
+      "On the ground floor, two independent apartments each offer a world of their own.",
+      "Upstairs, two further residences can open into one another and form a single, larger whole.",
+      "Lower down, the mood becomes intimate: a beldi hammam and treatment rooms carry the experience further.",
+      "Then comes the rooftop, open to Essaouira, its sky, its light and the Atlantic.",
+      "The collections, for their part, know no boundaries.",
+      "<strong>They inhabit the whole house.</strong>"
+    ]
+  }
+}

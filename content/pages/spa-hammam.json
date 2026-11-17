@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "title": {
+      "fr": "Hammam & Bien-être — l'intimité sous la maison",
+      "en": "Hammam & Wellbeing — intimacy beneath the house"
+    },
+    "desc": {
+      "fr": "Dans un univers immaculé, au niveau inférieur de la villa museum mogador, un hammam beldi et deux salles de soins conçus comme un espace de retrait et de sérénité.",
+      "en": "In a wholly white world on the lower level of villa museum mogador, a beldi hammam and two treatment rooms conceived as a place of retreat and calm."
+    }
+  },
+  "kicker": {
+    "fr": "Hammam & Bien-être",
+    "en": "Hammam & Wellbeing"
+  },
+  "title": {
+    "fr": "L'intimité sous la maison",
+    "en": "Intimacy beneath the house"
+  },
+  "intro": {
+    "fr": [
+      "Au niveau inférieur de villa museum mogador, l'architecture change de registre.",
+      "Dans un univers immaculé se dévoilent un hammam beldi et deux salles de soins, conçus comme un espace de retrait et de sérénité.",
+      "Ici, la matière parle autant que le décor : zelliges, eau, vapeur et lumière composent une atmosphère volontairement dépouillée.",
+      "Le hammam peut être réservé pour préserver l'intimité de l'expérience.",
+      "<strong>Une parenthèse, un lieu pour ralentir, se retrouver et laisser le silence faire partie du soin.</strong>"
+    ],
+    "en": [
+      "On the lower level of villa museum mogador, the architecture changes register.",
+      "In a wholly white world, a beldi hammam and two treatment rooms come into view, conceived as a place of retreat and calm.",
+      "Here the materials speak as loudly as the decoration: zellige, water, steam and light make an atmosphere that is deliberately bare.",
+      "The hammam may be booked for private use, so that the hour remains entirely your own.",
+      "<strong>A parenthesis. A place to slow down, to come back to yourself, and to let silence become part of the treatment.</strong>"
+    ]
+  },
+  "note": {
+    "fr": "Les soins proposés et leurs modalités seront précisés à l'ouverture.",
+    "en": "The treatments offered, and how they are arranged, will be set out when the house opens."
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "title": {
+      "fr": "Réserver — écrire à la maison",
+      "en": "Reserve — write to the house"
+    },
+    "desc": {
+      "fr": "Demandez un séjour à la villa museum mogador, Essaouira. Une réponse personnelle, la courtoisie d'une maison privée.",
+      "en": "Request a stay at villa museum mogador, Essaouira. A personal reply, the courtesy of a private house."
+    }
+  },
+  "kicker": {
+    "fr": "Réserver",
+    "en": "Reserve"
+  },
+  "title": {
+    "fr": "Écrire à la maison",
+    "en": "Write to the house"
+  },
+  "intro": {
+    "fr": [
+      "<strong>Ouverture prochaine.</strong> Vous pouvez dès à présent nous écrire pour préparer votre séjour.",
+      "On ne retient pas cette maison comme on prend une chambre.",
+      "Dites-nous vos dates, le nombre de vos hôtes, et l'appartement vers lequel vous penchez — si vous penchez déjà. Une personne vous répondra."
+    ],
+    "en": [
+      "<strong>Opening soon.</strong> You are welcome to write to us now to prepare your stay.",
+      "This house is not booked the way a room is taken.",
+      "Tell us your dates, how many you will be, and the apartment you are drawn to — if one has already drawn you. A person will reply."
+    ]
+  },
+  "form": {
+    "name": {
+      "fr": "Votre nom",
+      "en": "Your name"
+    },
+    "email": {
+      "fr": "Votre e-mail",
+      "en": "Your e-mail"
+    },
+    "arrival": {
+      "fr": "Arrivée",
+      "en": "Arrival"
+    },
+    "departure": {
+      "fr": "Départ",
+      "en": "Departure"
+    },
+    "guests": {
+      "fr": "Nombre d'hôtes",
+      "en": "Number of guests"
+    },
+    "apt": {
+      "fr": "Appartement souhaité, si vous avez une préférence",
+      "en": "Preferred apartment, if you have one"
+    },
+    "aptAny": {
+      "fr": "Laissez-nous vous conseiller",
+      "en": "Let us advise you"
+    },
+    "message": {
+      "fr": "Votre message",
+      "en": "Your message"
+    },
+    "submit": {
+      "fr": "Envoyer",
+      "en": "Send"
+    }
+  },
+  "formPending": {
+    "fr": "Ce formulaire sera actif à l'ouverture de la maison, dès que son adresse de correspondance sera établie.",
+    "en": "This form will be live when the house opens, as soon as its correspondence address has been established."
+  },
+  "altTitle": {
+    "fr": "Autrement",
+    "en": "Another way"
+  },
+  "alt": {
+    "fr": "Par téléphone ou WhatsApp : <a href='tel:+212615116000'>+212 6 15 11 60 00</a> · <a href='https://wa.me/212615116000' target='_blank' rel='noopener'>écrire sur WhatsApp</a>.",
+    "en": "By telephone or WhatsApp: <a href='tel:+212615116000'>+212 6 15 11 60 00</a> · <a href='https://wa.me/212615116000' target='_blank' rel='noopener'>message us on WhatsApp</a>."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "title": {
+      "fr": "Rooftop — Essaouira à l'horizon",
+      "en": "Rooftop — Essaouira on the horizon"
+    },
+    "desc": {
+      "fr": "Tout en haut de la villa museum mogador, l'architecture s'efface devant le paysage : la baie, l'océan et l'île de Mogador, à chaque heure une lumière différente.",
+      "en": "At the very top of villa museum mogador, architecture gives way to landscape: the bay, the ocean and the island of Mogador, a different light at every hour."
+    }
+  },
+  "kicker": {
+    "fr": "Rooftop",
+    "en": "Rooftop"
+  },
+  "title": {
+    "fr": "Essaouira à l'horizon",
+    "en": "Essaouira on the horizon"
+  },
+  "intro": {
+    "fr": [
+      "Tout en haut de la Villa, l'architecture s'efface devant le paysage.",
+      "Le matin, on y prend le petit-déjeuner face à la lumière naissante.",
+      "Au fil de la journée, sur le solarium, le ciel, l'océan et la ville changent de couleur.",
+      "Puis vient le soir, lorsque le soleil descend derrière la baie et que l'île de Mogador se détache à l'horizon.",
+      "Des couleurs de braise, de feu et de magie envahissent le ciel.",
+      "<strong>Un même lieu. Une lumière toujours différente.</strong>",
+      "<strong>Le rooftop devient alors un belvédère.</strong>"
+    ],
+    "en": [
+      "At the very top of the Villa, architecture gives way to landscape.",
+      "In the morning, breakfast is taken there, facing the first light.",
+      "Through the day, on the solarium, the sky, the ocean and the city change colour.",
+      "Then comes evening, when the sun goes down behind the bay and the island of Mogador stands out against the horizon.",
+      "Colours of ember, of fire and of magic flood the sky.",
+      "<strong>One place. A light never twice the same.</strong>",
+      "<strong>The rooftop becomes, then, a belvedere.</strong>"
+    ]
+  }
+}

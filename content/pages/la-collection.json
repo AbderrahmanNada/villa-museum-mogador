@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "title": {
+      "fr": "Les Collections — le musée habité",
+      "en": "The Collections — the inhabited museum"
+    },
+    "desc": {
+      "fr": "Photographies, cartes postales anciennes, boiseries, céramiques, zelliges, objets du quotidien : les collections de la villa museum mogador ne se contemplent pas derrière une vitrine, elles se traversent.",
+      "en": "Photographs, old postcards, woodwork, ceramics, zellige, everyday objects: the collections of villa museum mogador are not kept behind glass — they are walked through."
+    }
+  },
+  "kicker": {
+    "fr": "Les Collections",
+    "en": "The Collections"
+  },
+  "title": {
+    "fr": "Le musée habité",
+    "en": "The inhabited museum"
+  },
+  "intro": {
+    "fr": [
+      "Ici, les collections ne se contemplent pas derrière une vitrine.",
+      "<strong>Elles se traversent.</strong>",
+      "Photographies, cartes postales anciennes, boiseries, céramiques, zelliges, objets du quotidien, pièces d'artisanat et fragments de mémoire accompagnent naturellement la vie de la maison.",
+      "Certaines pièces ont été transmises. D'autres chinées, recherchées, découvertes ou sauvegardées.",
+      "<strong>Chaque objet a une histoire, une vie.</strong> Évoquant des souvenirs lointains telles des madeleines de Proust, ou découverts ici, chaque pièce suscite des émotions.",
+      "Ensemble, elles composent moins un inventaire qu'un <strong>portrait intime du Maroc et d'ailleurs, à travers le regard de Rachid Haloui</strong>."
+    ],
+    "en": [
+      "Here the collections are not kept behind glass.",
+      "<strong>They are walked through.</strong>",
+      "Photographs, old postcards, woodwork, ceramics, zellige, everyday objects, pieces of craftsmanship and fragments of memory sit quite naturally within the daily life of the house.",
+      "Some pieces were handed down. Others were hunted out, sought, discovered or rescued.",
+      "<strong>Every object has a history, a life.</strong> Whether they call up distant memories, like Proust's madeleines, or are discovered here for the first time, each piece stirs something.",
+      "Together they form less an inventory than an <strong>intimate portrait of Morocco and of elsewhere, through the eye of Rachid Haloui</strong>."
+    ]
+  }
+}

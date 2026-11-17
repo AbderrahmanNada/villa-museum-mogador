@@ -1,0 +1,14 @@
+{
+  "name": "villa-musee-mogador",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Villa Musée Mogador — site V1. Générateur statique sans dépendance.",
+  "scripts": {
+    "images": "python3 scripts/optimize_images.py",
+    "build": "node build.mjs",
+    "all": "npm run images && npm run build",
+    "serve": "node --run build && python3 -m http.server 8010 --directory dist",
+    "preview": "python3 -m http.server 8010 --directory dist"
+  }
+}

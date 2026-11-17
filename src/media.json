@@ -1,0 +1,287 @@
+{
+  "credit": "Photography — Rachid Haloui",
+  "sourceDir": "photos",
+  "images": [
+    {
+      "id": "villa-nuit",
+      "file": "photos/20260110_193401.jpg",
+      "altFR": "La villa à la tombée du jour — volumes cubiques blancs, lumière chaude sous les auvents",
+      "altEN": "The villa at dusk — white cubic volumes, warm light beneath the eaves",
+      "provisional": true,
+      "emplacement": "Accueil, La Villa"
+    },
+    {
+      "id": "baie-soir",
+      "file": "photos/20230127_223330.jpg",
+      "altFR": "Le soir sur la baie d'Essaouira, face à l'île de Mogador",
+      "altEN": "Evening over the bay of Essaouira, facing Mogador island",
+      "provisional": true,
+      "emplacement": "Accueil, L'Expérience, Rooftop, Essaouira"
+    },
+    {
+      "id": "villa-jour",
+      "file": "photos/HALOUI_2026-11-04_facade_retouchee_whatsapp.jpg",
+      "altFR": "La villa côté rue — blanc architectural, soubassement de pierre, clôture de galets",
+      "altEN": "The villa from the street — architectural white, stone base, pebble wall",
+      "provisional": true,
+      "emplacement": "Accueil, La Villa, Rachid Haloui"
+    },
+    {
+      "id": "couloir-memoires",
+      "file": "photos/20260701_094846.jpg",
+      "altFR": "Le couloir des mémoires — cartes postales anciennes du Maroc et porte berbère sculptée à khamsa",
+      "altEN": "The corridor of memories — antique Moroccan postcards and a carved Berber door",
+      "panorama": true,
+      "provisional": true,
+      "emplacement": "Accueil, Les Collections"
+    },
+    {
+      "id": "marqueterie-bronze",
+      "file": "photos/20251106_131249.jpg",
+      "altFR": "Le travail de la main — marqueterie hispano-mauresque et bronze ciselé",
+      "altEN": "Handwork — Hispano-Moorish marquetry and chiselled bronze",
+      "provisional": true,
+      "emplacement": "Rachid Haloui, Les Collections, Les Résidences"
+    },
+    {
+      "id": "the-arrivee",
+      "file": "photos/20260120_134124.jpg",
+      "altFR": "Le thé de l'arrivée — salon marocain, argent et brocart",
+      "altEN": "The welcome tea — Moroccan salon, silver and brocade",
+      "provisional": true,
+      "emplacement": "Accueil, Les Résidences, L'Expérience"
+    },
+    {
+      "id": "porteuse-eau",
+      "file": "photos/20260120_165857.jpg",
+      "altFR": "La porteuse d'eau, gardienne de l'escalier",
+      "altEN": "The water carrier, keeper of the staircase",
+      "provisional": true,
+      "emplacement": "Les Collections"
+    },
+    {
+      "id": "grille-portrait",
+      "file": "photos/20260122_103805.jpg",
+      "altFR": "Le regard derrière la grille — grille de fer forgé ancienne montée sur un portrait photographique",
+      "altEN": "The gaze behind the grille — antique wrought iron mounted on a photographic portrait",
+      "provisional": true,
+      "emplacement": "Accueil, Les Collections"
+    },
+    {
+      "id": "salle-bain",
+      "file": "photos/20260122_190827.jpg",
+      "altFR": "Carreaux de ciment et céramique — la salle de bain comme un décor",
+      "altEN": "Cement tiles and ceramic — the bathroom as a stage set",
+      "provisional": true,
+      "emplacement": "Les Résidences"
+    },
+    {
+      "id": "bestiaire-regule",
+      "file": "photos/20260131_181553.jpg",
+      "altFR": "Le bestiaire de régule et la pendule aux lionnes",
+      "altEN": "The spelter bestiary and the lioness clock",
+      "provisional": true,
+      "emplacement": "Les Collections"
+    },
+    {
+      "id": "pots-epices",
+      "file": "photos/HALOUI_2026-11-17_buffet.jpg",
+      "altFR": "Le buffet ancien — pots à épices, pendules et laitons",
+      "altEN": "The antique dresser — spice jars, wall clocks and brass",
+      "provisional": true,
+      "emplacement": "Les Collections"
+    },
+    {
+      "id": "salon-galerie",
+      "file": "photos/20260204_194443.jpg",
+      "altFR": "Le salon-galerie — photographies et aquarelles anciennes",
+      "altEN": "The gallery salon — photographs and antique watercolours",
+      "provisional": true,
+      "emplacement": "Accueil, Rachid Haloui, Les Collections"
+    },
+    {
+      "id": "images-anciennes",
+      "file": "photos/20260206_131434.jpg",
+      "altFR": "La collection d'images anciennes du Maroc",
+      "altEN": "The collection of antique images of Morocco",
+      "provisional": true,
+      "emplacement": "Les Collections"
+    },
+    {
+      "id": "moucharabieh",
+      "file": "photos/20260209_160702.jpg",
+      "altFR": "Moucharabieh sculpté dans le bois blond",
+      "altEN": "Carved mashrabiya in pale wood",
+      "provisional": true,
+      "emplacement": "Les Collections, Les Résidences"
+    },
+    {
+      "id": "tapis-berbere",
+      "file": "photos/20260301_180433.jpg",
+      "altFR": "Laine rouge — le tapis berbère",
+      "altEN": "Red wool — the Berber rug",
+      "provisional": true,
+      "emplacement": "Les Collections"
+    },
+    {
+      "id": "miroir-coran",
+      "file": "photos/20260523_161240.jpg",
+      "altFR": "Dans le miroir, les planches coraniques anciennes",
+      "altEN": "In the mirror, the antique Qur'anic boards",
+      "provisional": true,
+      "emplacement": "Accueil, Les Collections"
+    },
+    {
+      "id": "mur-sepia",
+      "file": "photos/20260530_122748.jpg",
+      "altFR": "Sépia, lavis et aquarelles — un mur qui traverse le Maroc",
+      "altEN": "Sepia, wash and watercolour — a wall that crosses Morocco",
+      "provisional": true,
+      "emplacement": "Les Collections"
+    },
+    {
+      "id": "ville-bleue",
+      "file": "photos/20260604_164012.jpg",
+      "altFR": "La ville en bleu — peinture",
+      "altEN": "The city in blue — painting",
+      "provisional": true,
+      "emplacement": "Les Collections"
+    },
+    {
+      "id": "gnaoua-1",
+      "file": "photos/20220603_204943.jpg",
+      "altFR": "Festival Gnaoua et Musiques du Monde — Essaouira, juin 2022",
+      "altEN": "Gnaoua and World Music Festival — Essaouira, June 2022",
+      "provisional": true,
+      "emplacement": "Essaouira"
+    },
+    {
+      "id": "gnaoua-2",
+      "file": "photos/20220603_205747.jpg",
+      "altFR": "La nuit gnaouie — Essaouira en festival",
+      "altEN": "The Gnaoua night — Essaouira in festival",
+      "provisional": true,
+      "emplacement": "Essaouira"
+    },
+    {
+      "id": "medina-ficus",
+      "file": "photos/20220930_155441.jpg",
+      "altFR": "La médina, blanche et bleue, sous son ficus centenaire",
+      "altEN": "The medina, white and blue, beneath its century-old ficus",
+      "provisional": true,
+      "emplacement": "Essaouira"
+    },
+    {
+      "id": "magana",
+      "file": "photos/20231101_120817.jpg",
+      "altFR": "La Magana, l'horloge de Mogador",
+      "altEN": "The Magana, clock tower of Mogador",
+      "provisional": true,
+      "emplacement": "Essaouira"
+    },
+    {
+      "id": "remparts-2010",
+      "file": "photos/DSC02411.JPG",
+      "altFR": "Au-dessus des remparts — façades blanches et volets bleus",
+      "altEN": "Above the ramparts — white façades and blue shutters",
+      "provisional": true,
+      "emplacement": "Essaouira"
+    },
+    {
+      "id": "port-barques",
+      "file": "photos/DSC09730.JPG",
+      "altFR": "Le port aux barques bleues, sous le borj de la Sqala",
+      "altEN": "The harbour of blue boats, beneath the Sqala bastion",
+      "provisional": true,
+      "emplacement": "Essaouira"
+    },
+    {
+      "id": "table-thuya",
+      "file": "photos/VMM_TABLE_THUYA_DETAIL.jpg",
+      "altFR": "La rosace de thuya et de nacre — marqueterie de maâlem",
+      "altEN": "The rosette of thuya and mother-of-pearl — master craftsman's marquetry",
+      "provisional": true,
+      "emplacement": "Les Collections"
+    },
+    {
+      "id": "hammam-zellige",
+      "file": "photos/HALOUI_2026-11-17_5RH.jpg",
+      "altFR": "Le hammam — zellige bleu et robinetterie de bronze",
+      "altEN": "The hammam — blue zellige and bronze tapware",
+      "provisional": true,
+      "emplacement": "La Villa, L'Expérience, Hammam & Bien-être"
+    },
+    {
+      "id": "porte-vmm",
+      "file": "photos/HALOUI_2026-11-17_3RH.jpg",
+      "altFR": "La porte signée VMM — bois sculpté à la main",
+      "altEN": "The VMM door — hand-carved wood",
+      "provisional": true,
+      "emplacement": "La Villa"
+    },
+    {
+      "id": "artisan-zellige",
+      "file": "photos/HALOUI_2026-11-17_1RH.jpg",
+      "altFR": "Carreau après carreau — la pose du zellige",
+      "altEN": "Tile by tile — laying the zellige",
+      "provisional": true,
+      "emplacement": "La Villa"
+    },
+    {
+      "id": "artisan-sol",
+      "file": "photos/HALOUI_2026-11-17_2RH.jpg",
+      "altFR": "L'artisan et son plan de pose",
+      "altEN": "The master craftsman and his layout",
+      "provisional": true,
+      "emplacement": "La Villa"
+    },
+    {
+      "id": "zellige-etoile",
+      "file": "photos/HALOUI_2026-11-17_9RH.jpg",
+      "altFR": "L'étoile de zellige",
+      "altEN": "The zellige star",
+      "provisional": true,
+      "emplacement": "La Villa"
+    },
+    {
+      "id": "chambre-terre",
+      "file": "photos/HALOUI_2026-11-17_11RH.jpg",
+      "altFR": "Terre cuite et plafond sculpté",
+      "altEN": "Terracotta and carved ceiling",
+      "provisional": true,
+      "emplacement": "La Villa"
+    },
+    {
+      "id": "lanterne-bleue",
+      "file": "photos/HALOUI_2026-11-17_8RH.jpg",
+      "altFR": "La lanterne sur le mur bleu",
+      "altEN": "The lantern on the blue wall",
+      "provisional": true,
+      "emplacement": "La Villa"
+    },
+    {
+      "id": "coussins-bleus",
+      "file": "photos/HALOUI_2026-11-17_coussins.jpg",
+      "altFR": "Velours bleu et coussins brodés",
+      "altEN": "Blue velvet and embroidered cushions",
+      "provisional": true,
+      "emplacement": "La Villa"
+    },
+    {
+      "id": "portraits-anciens",
+      "file": "photos/HALOUI_2026-11-17_7RH.jpg",
+      "altFR": "Portraits anciens en médaillon",
+      "altEN": "Antique medallion portraits",
+      "provisional": true,
+      "emplacement": "La Villa"
+    },
+    {
+      "id": "miroir-statue",
+      "file": "photos/HALOUI_2026-11-17_10RH.jpg",
+      "altFR": "Le miroir, le baromètre et la statuette aux gazelles",
+      "altEN": "The mirror, the barometer and the gazelle statuette",
+      "provisional": true,
+      "emplacement": "Les Collections"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "title": {
+      "fr": "villa museum mogador — Habiter une œuvre · Essaouira",
+      "en": "villa museum mogador — A work of art you can live in · Essaouira"
+    },
+    "desc": {
+      "fr": "villa museum mogador, Essaouira : une maison composée comme une œuvre par l'architecte et photographe Rachid Haloui. Architecture, collections, photographie, hospitalité. Boutique Museum Residence.",
+      "en": "villa museum mogador, Essaouira: a house composed as a work of art is composed, by Rachid Haloui, architect and photographer. Architecture, collections, photography, hospitality. A Boutique Museum Residence."
+    }
+  },
+  "heroSig": {
+    "fr": "Habiter une œuvre.",
+    "en": "A work of art you can live in."
+  },
+  "concept": {
+    "fr": [
+      "Il est des maisons que l'on construit pour y vivre. D'autres que l'on compose comme une œuvre.",
+      "villa museum mogador appartient à cette seconde famille.",
+      "Imaginée par Rachid Haloui, architecte, enseignant, photographe, plasticien, écrivain et collectionneur, elle réunit dans une même bâtisse architecture, mémoire, art et hospitalité.",
+      "Ici, loin des tendances, pas de décoration. Chaque volume, chaque matière, chaque objet et chaque image participe à un récit."
+    ],
+    "en": [
+      "Some houses are built to be lived in. Others are composed the way a work of art is.",
+      "villa museum mogador belongs to the second kind.",
+      "Conceived by Rachid Haloui — architect, teacher, photographer, visual artist, writer and collector — it brings architecture, memory, art and hospitality together within a single building.",
+      "Here, far from passing trends, there is no decoration. Every volume, every material, every object and every image plays its part in the narrative."
+    ]
+  },
+  "doorsIntro": {
+    "fr": "Trois portes pour entrer",
+    "en": "Three ways in"
+  },
+  "museumTitle": {
+    "fr": "Un musée dès le seuil",
+    "en": "A museum from the threshold"
+  },
+  "museumBody": {
+    "fr": [
+      "L'exposition commence sans que l'on s'en rende compte, avant même que l'on comprenne qu'elle a commencé.",
+      "Un objet dans un passage. Une photographie au détour d'un escalier. Une porte ancienne. Un fragment de bois sculpté. Une céramique. Une image d'Essaouira.",
+      "À villa museum mogador, il n'existe pas véritablement de frontière entre les espaces d'exposition et les espaces de vie.",
+      "<strong>La maison est le musée.</strong>",
+      "Et, le temps d'un séjour, le visiteur en devient l'habitant."
+    ],
+    "en": [
+      "The exhibition begins unnoticed, before anyone understands that it has begun.",
+      "An object in a passage. A photograph at the turn of a staircase. An old door. A fragment of carved wood. A piece of ceramic. An image of Essaouira.",
+      "At villa museum mogador there is no real dividing line between the rooms that exhibit and the rooms that are lived in.",
+      "<strong>The house is the museum.</strong>",
+      "And, for the length of a stay, the visitor becomes its inhabitant."
+    ]
+  },
+  "aptTitle": {
+    "fr": "Quatre appartements, quatre récits",
+    "en": "Four apartments, four narratives"
+  },
+  "aptBody": {
+    "fr": [
+      "Les quatre appartements de villa museum mogador ne sont pas conçus comme quatre déclinaisons d'un même hébergement.",
+      "Chacun possède sa propre mémoire.",
+      "Essaouira. Fès. Maroc Ancien. Vieille France.",
+      "Quatre noms, quatre atmosphères, quatre manières de raconter un territoire et son histoire à travers les œuvres, les matières, le mobilier et les objets choisis par Rachid Haloui.",
+      "<strong>On ne choisit donc pas seulement un appartement. On choisit le récit que l'on souhaite habiter.</strong>"
+    ],
+    "en": [
+      "The four apartments of villa museum mogador were not conceived as four variations on a single design.",
+      "Each holds a memory of its own.",
+      "Essaouira. Fès. Maroc Ancien. Vieille France.",
+      "Four names, four atmospheres, four ways of recounting a place and its history through the works, the materials, the furniture and the objects Rachid Haloui has chosen.",
+      "<strong>You are not simply choosing an apartment. You are choosing the narrative you wish to inhabit.</strong>"
+    ]
+  },
+  "essaouiraTitle": {
+    "fr": "Il a photographié la ville avant d'y bâtir",
+    "en": "He photographed the city before building in it"
+  },
+  "essaouiraBody": {
+    "fr": [
+      "Avant de devenir l'adresse de villa museum mogador, Essaouira était déjà depuis longtemps un sujet du regard de Rachid Haloui.",
+      "En 2003, il a édité <em>Essaouira à vol de mouette</em> (éd. PM multidia), un ensemble de photographies exceptionnelles accompagnées d'un poème raconté par une mouette.",
+      "Le port. Les remparts. La médina. Les façades. L'océan. Le vent. La lumière.",
+      "Il les a observés et photographiés au fil du temps.",
+      "La Villa prolonge aujourd'hui ce regard : non plus seulement photographier Essaouira, mais construire un lieu depuis lequel on peut continuer à la contempler."
+    ],
+    "en": [
+      "Long before it became the address of villa museum mogador, Essaouira had already been one of Rachid Haloui's subjects for many years.",
+      "In 2003 he published <em>Essaouira à vol de mouette</em> (PM multidia), a remarkable body of photographs accompanied by a poem told by a seagull.",
+      "The harbour. The ramparts. The medina. The façades. The ocean. The wind. The light.",
+      "He watched them and photographed them over the years.",
+      "The Villa now carries that attention further: no longer photographing Essaouira alone, but building a place from which to go on looking at it."
+    ]
+  },
+  "inviteTitle": {
+    "fr": "La maison répond elle-même.",
+    "en": "The house replies in person."
+  }
+}

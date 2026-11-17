@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "title": {
+      "fr": "Les Résidences — quatre appartements, quatre récits",
+      "en": "The Residences — four apartments, four narratives"
+    },
+    "desc": {
+      "fr": "Essaouira, Fès, Maroc Ancien, Vieille France : quatre appartements réunis dans une même architecture, mais quatre manières d'habiter la mémoire. villa museum mogador, Essaouira.",
+      "en": "Essaouira, Fès, Maroc Ancien, Vieille France: four apartments held within a single building, and four different ways of inhabiting memory. villa museum mogador, Essaouira."
+    }
+  },
+  "kicker": {
+    "fr": "Les Résidences",
+    "en": "The Residences"
+  },
+  "title": {
+    "fr": "Quatre appartements, quatre récits",
+    "en": "Four apartments, four narratives"
+  },
+  "intro": {
+    "fr": [
+      "Chaque résidence porte le nom d'un lieu ou d'un temps.",
+      "Les œuvres, les objets, les matières et le mobilier prolongent cette identité.",
+      "<strong>Essaouira. Fès. Maroc Ancien. Vieille France.</strong>",
+      "Quatre appartements réunis dans une même architecture, mais quatre manières différentes d'habiter la mémoire."
+    ],
+    "en": [
+      "Each residence bears the name of a place or a time.",
+      "The works, the objects, the materials and the furniture all carry that identity further.",
+      "<strong>Essaouira. Fès. Maroc Ancien. Vieille France.</strong>",
+      "Four apartments held within a single building, and four different ways of inhabiting memory."
+    ]
+  },
+  "apts": [
+    {
+      "name": "Essaouira",
+      "level": {
+        "fr": "1er étage · communique avec Fès",
+        "en": "First floor · opens into Fès"
+      },
+      "link": {
+        "fr": "Communique avec l'appartement Fès : les deux peuvent être réservés ensemble pour une famille ou un groupe.",
+        "en": "Connects with the Fès apartment: the two can be booked together for a family or a group."
+      },
+      "desc": {
+        "fr": [
+          "L'étage, la lumière de l'Atlantique, et le nom de la ville par laquelle tout a commencé.",
+          "Ici murs et vitrines racontent la ville, son histoire, sa magie et ses identités : l'argan, le thuya, les gnaouas, les arts et la mer."
+        ],
+        "en": [
+          "The upper floor, the Atlantic light, and the name of the city where it all began.",
+          "Here the walls and the cabinets tell the city — its history, its magic and its identities: argan, thuya, the Gnaoua, the arts and the sea."
+        ]
+      },
+      "facts": {
+        "fr": "88 m², un grand salon, cuisine à l'américaine super équipée, avec plan de travail/repas, balcon vue mer, une chambre avec un grand lit king size et salle de bains, une chambre avec 3 lits individuels et salle de bains (attention un lit ancien petites dimensions : 0,80 × 1,85 m).",
+        "en": "88 m², a large living room, a fully equipped open-plan kitchen with a worktop/dining counter, a balcony facing the sea, one bedroom with a king-size bed and bathroom, one bedroom with 3 single beds and bathroom (please note, one antique bed of small dimensions: 0.80 × 1.85 m)."
+      }
+    },
+    {
+      "name": "Fès",
+      "level": {
+        "fr": "1er étage · communique avec Essaouira",
+        "en": "First floor · opens into Essaouira"
+      },
+      "link": {
+        "fr": "Communique avec l'appartement Essaouira : les deux peuvent être réservés ensemble pour une famille ou un groupe.",
+        "en": "Connects with the Essaouira apartment: the two can be booked together for a family or a group."
+      },
+      "desc": {
+        "fr": [
+          "Fès. Fès la mémoire impériale à l'étage.. La plus grande médina du monde, le plus grand espace piétonnier du monde, authentique, irréelle, magique, puissante… Fès est présentée par le témoignage de quelques objets rares, des photos, des documents, et un mobilier qui révèle ses précieux caractères : la douceur des velours anciens, l'odeur du cèdre sculpté et la brillance des zelliges, beiges comme ses remparts de terre, verts comme ses tuiles vernissées et bleus comme ses poteries."
+        ],
+        "en": [
+          "Fès. Fès, imperial memory upstairs. The largest medina in the world, the largest pedestrian quarter in the world — authentic, unreal, magical, powerful… Fès is given here through the testimony of a few rare objects, photographs, documents, and furniture that reveals its precious character: the softness of old velvets, the scent of carved cedar and the shine of zellige — beige like its earthen ramparts, green like its glazed tiles and blue like its pottery."
+        ]
+      },
+      "facts": {
+        "fr": "93 m², un grand salon, cuisine à l'américaine super équipée, balcon vue mer, une chambre avec un grand lit king size et salle de bains, une chambre avec 2 lits individuels et salle de bains, WC séparé.",
+        "en": "93 m², a large living room, a fully equipped open-plan kitchen, a balcony facing the sea, one bedroom with a king-size bed and bathroom, one bedroom with 2 single beds and bathroom, separate WC."
+      }
+    },
+    {
+      "name": "Maroc Ancien",
+      "level": {
+        "fr": "Rez-de-chaussée · indépendant",
+        "en": "Ground floor · independent"
+      },
+      "desc": {
+        "fr": [
+          "De plain-pied, le Maroc des matières et des objets — le plus dense des quatre. Le Maroc, multiple, complexe, riche et varié. Ses poteries, ses tapis… des peintures, des photos, des cartes postales, des documents, d'innombrables objets révèlent la richesse infinie d'un pays constitué de plusieurs pays : le Sahara, l'Atlas, le Rif, les médinas, les oasis, la mer…"
+        ],
+        "en": [
+          "At ground level, the Morocco of materials and objects — the densest of the four. Morocco: manifold, complex, rich and varied. Its pottery, its carpets… paintings, photographs, postcards, documents, countless objects reveal the infinite richness of a country made of several countries: the Sahara, the Atlas, the Rif, the medinas, the oases, the sea…"
+        ]
+      },
+      "facts": {
+        "fr": "82 m², un grand salon, cuisine à l'américaine super équipée, terrasse sur jardin, une chambre avec un grand lit king size et salle de bains, une chambre avec 2 lits individuels et salle de bains, WC séparé.",
+        "en": "82 m², a large living room, a fully equipped open-plan kitchen, a terrace onto the garden, one bedroom with a king-size bed and bathroom, one bedroom with 2 single beds and bathroom, separate WC."
+      }
+    },
+    {
+      "name": "Vieille France",
+      "level": {
+        "fr": "Rez-de-chaussée · indépendant",
+        "en": "Ground floor · independent"
+      },
+      "desc": {
+        "fr": [
+          "Le nom d'un temps que la maison tient au présent. Indépendant, de plain-pied. La France. Une attache fusionnelle. « je suis rentré en France par la porte de la culture » dit Rachid Haloui lors de la cérémonie de la remise de sa médaille de Chevalier dans l'ordre des Arts et des Lettres. Cette reconnaissance il la lui rend bien. Une France d'autrefois où foisonnent des centaines d'objets tels des madeleines de Proust : stylos, encriers, téléphones, pendules, documents, casque prussien, cartes postales, bakélite, briquets, planches scolaires, portraits…"
+        ],
+        "en": [
+          "The name of a time the house keeps in the present. Independent, at ground level. France. A fused attachment. “I came into France through the door of culture,” said Rachid Haloui at the ceremony where he received his medal of Chevalier dans l'ordre des Arts et des Lettres. That recognition he returns in full. A France of former days, teeming with hundreds of objects like so many Proustian madeleines: pens, inkwells, telephones, clocks, documents, a Prussian helmet, postcards, bakelite, lighters, schoolroom charts, portraits…"
+        ]
+      },
+      "facts": {
+        "fr": "68 m², salon, cuisine à l'américaine super équipée, terrasse sur jardin, une chambre avec un grand lit king size, une chambre avec 2 lits individuels et une salle de bains.",
+        "en": "68 m², a living room, a fully equipped open-plan kitchen, a terrace onto the garden, one bedroom with a king-size bed, one bedroom with 2 single beds and one bathroom."
+      }
+    }
+  ],
+  "equipment": {
+    "fr": "L'appartement est équipé en télévision satellite, wifi fibre 200 mégas, climatisation, chauffage, coffre-fort, plaque de cuisson électrique, frigo, micro-ondes, lave-linge, sèche-cheveux.",
+    "en": "The apartment is equipped with satellite television, 200 Mbps fibre wi-fi, air conditioning, heating, a safe, an electric hob, a fridge, a microwave, a washing machine and a hairdryer."
+  },
+  "onRequest": {
+    "fr": "Fournis à la demande : lit parapluie pour bébé, poussette, siège auto bébé, rehausseur enfant, table à langer, pot, fer à repasser, serviettes de plage, tapis de prière…",
+    "en": "Provided on request: travel cot, pushchair, baby car seat, child booster seat, changing table, potty, iron, beach towels, prayer mats…"
+  },
+  "note": {
+    "fr": "Les photographies définitives de chaque appartement seront intégrées après le reportage photographique.",
+    "en": "Final photographs of each apartment will be added once the photography is complete."
+  }
+}

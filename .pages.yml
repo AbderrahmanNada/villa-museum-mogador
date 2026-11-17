@@ -1,7 +1,15 @@
 {
   "media": {
     "input": "photos",
-    "output": "photos"
+    "output": "photos",
+    "extensions": [
+      "jpg",
+      "jpeg",
+      "png",
+      "webp",
+      "heic",
+      "heif"
+    ]
   },
   "content": [
     {
@@ -2057,18 +2065,23 @@
           "name": "images",
           "label": "Photos",
           "type": "object",
-          "list": true,
+          "list": {
+            "min": 35,
+            "max": 35
+          },
           "fields": [
             {
               "name": "id",
-              "label": "Identifiant (ne pas modifier)",
+              "label": "Identifiant",
               "type": "string",
-              "required": true
+              "required": true,
+              "readonly": true
             },
             {
               "name": "emplacement",
               "label": "Pages où la photo apparaît",
-              "type": "string"
+              "type": "string",
+              "readonly": true
             },
             {
               "name": "file",

@@ -51,19 +51,20 @@ for slug, lab in PAGES:
 s = json.loads((R / "content/site.json").read_text())
 content.append({"name": "site", "label": "Coordonnées & slogan", "type": "file", "path": "content/site.json",
                 "format": "json", "fields": [field("site", s["site"])]})
+N = len(json.loads((R / "src/media.json").read_text())["images"])
 content.append({"name": "photos", "label": "Photos du site", "type": "file", "path": "src/media.json", "format": "json",
   "fields": [
     {"name": "sourceDir", "label": "Dossier (ne pas modifier)", "type": "string", "hidden": True},
     {"name": "credit", "label": "Crédit photo", "type": "string"},
-    {"name": "images", "label": "Photos", "type": "object", "list": True, "fields": [
-        {"name": "id", "label": "Identifiant (ne pas modifier)", "type": "string", "required": True},
-        {"name": "emplacement", "label": "Pages où la photo apparaît", "type": "string"},
+    {"name": "images", "label": "Photos", "type": "object", "list": {"min": N, "max": N}, "fields": [
+        {"name": "id", "label": "Identifiant", "type": "string", "required": True, "readonly": True},
+        {"name": "emplacement", "label": "Pages où la photo apparaît", "type": "string", "readonly": True},
         {"name": "file", "label": "Photo", "type": "image"},
         {"name": "altFR", "label": "Légende (français)", "type": "string"},
         {"name": "altEN", "label": "Légende (anglais)", "type": "string"},
         {"name": "panorama", "label": "Panorama", "type": "boolean", "hidden": True},
         {"name": "lowres", "label": "Basse définition", "type": "boolean", "hidden": True},
         {"name": "provisional", "label": "Provisoire", "type": "boolean", "hidden": True}]}]})
-cfg = {"media": {"input": "photos", "output": "photos"}, "content": content}
+cfg = {"media": {"input": "photos", "output": "photos", "extensions": ["jpg", "jpeg", "png", "webp", "heic", "heif"]}, "content": content}
 (R / ".pages.yml").write_text(json.dumps(cfg, ensure_ascii=False, indent=2))  # JSON est du YAML valide
 print("ok", len(content), "entrées")

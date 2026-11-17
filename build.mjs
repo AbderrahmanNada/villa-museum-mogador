@@ -12,8 +12,6 @@ import { pic, alt, CREDIT, dims } from "./src/media.mjs";
 
 const __dir = dirname(fileURLToPath(import.meta.url));
 const DIST = resolve(__dir, "dist");
-// Domaine définitif, acheté le 18/08/2026 et servi par Caddy depuis la même racine
-// le site déclarait l'adresse provisoire comme canonique — cf. R1 de VMM_AUDIT_TECHNIQUE.
 // Surchargeable sans rebuild du fichier : VMM_ORIGIN=... node build.mjs
 const ORIGIN = process.env.VMM_ORIGIN || "https://villamuseummogador.com";
 

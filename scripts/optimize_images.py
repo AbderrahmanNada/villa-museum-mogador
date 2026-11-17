@@ -9,15 +9,21 @@ que le build pose width/height (zéro CLS) et les srcset corrects.
 Remplacement de photo en septembre : déposer le nouveau fichier, garder l'id,
 relancer ce script + le build. Rien d'autre à changer.
 """
-import json, os, sys
+import json, os, re, sys
 from pathlib import Path
 from PIL import Image, ImageOps
+try:                                    # photos d'iPhone (HEIC)
+    from pillow_heif import register_heif_opener
+    register_heif_opener()
+except ImportError:
+    pass
 
 HERE = Path(__file__).resolve().parent
 SITE = HERE.parent
 MEDIA = json.loads((SITE / "src" / "media.json").read_text(encoding="utf-8"))
 SRC_DIR = (SITE / MEDIA["sourceDir"]).resolve()
 OUT_DIR = SITE / "dist" / "assets" / "img"
+BUILD = (SITE / "build.mjs").read_text(encoding="utf-8")
 WIDTHS = [400, 800, 1200, 1800, 2600]     # tailles servies au navigateur
 PANO_WIDTHS = [800, 1400, 2200, 3200]      # panoramas: plus larges
 QUALITY = 80
@@ -57,13 +63,29 @@ def main():
     print(f"Source : {SRC_DIR}")
     print(f"Sortie : {OUT_DIR}\n")
     meta = {}
+    errors = []
     for e in MEDIA["images"]:
-        r = process(e)
+        try:
+            r = process(e)
+        except Exception as x:          # fichier illisible (format non pris en charge…)
+            r = None
+            print(f"  ✗ ILLISIBLE: {e.get('file')} (id={e.get('id')}) — {x}")
         if r:
             meta[e["id"]] = r
+        else:
+            errors.append(e.get("id"))
+    # chaque identifiant utilisé par build.mjs doit exister
+    known = {e["id"] for e in MEDIA["images"]}
+    expected = set(json.loads((SITE / "src" / "ids_attendus.json").read_text(encoding="utf-8")))
+    expected |= set(re.findall(r'pic\("([a-z0-9-]+)"', BUILD))
+    missing_ids = sorted(expected - known)
+    ids_dup = sorted({i for i in [e["id"] for e in MEDIA["images"]] if [e["id"] for e in MEDIA["images"]].count(i) > 1})
     (OUT_DIR / "img-meta.json").write_text(json.dumps(meta, indent=2, ensure_ascii=False), encoding="utf-8")
     print(f"\n{len(meta)}/{len(MEDIA['images'])} images traitées. Meta → {OUT_DIR/'img-meta.json'}")
     print("Originaux : INTACTS (lecture seule).")
+    if errors or missing_ids or ids_dup:
+        print(f"\n✗ PUBLICATION ARRÊTÉE — photos manquantes/illisibles : {errors} · identifiants absents : {missing_ids} · doublons : {ids_dup}")
+        sys.exit(1)
 
 if __name__ == "__main__":
     main()
